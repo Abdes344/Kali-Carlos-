@@ -2,6 +2,7 @@
 
 ## 1. Mode actiu amb Netdiscover
 Primer iniciarem sessio en el kali 
+
 ![netdiscover active mode](/AA4/IMG/1.png)
 
 Abans de començar, mirem l'ajuda de netdiscover -h per conèixer les opcions com -r per definir el rang o -p per mode passiu.
